@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
+
+<div align="center"> <img height="300" src="https://raw.githubusercontent.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/main/thoughtworks-gif_dribbble.gif"/> </div>
+
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamede322&label=Profile%20views&color=0e75b6&style=flat" alt="mohamede322" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamede322" alt="mohamede322" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -22,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamede322&show_icons=true&locale=en&layout=compact" alt="mohamede322" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamede322&show_icons=true&locale=en" alt="mohamede322" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamede322&" alt="mohamede322" /></p>
