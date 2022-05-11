@@ -4,7 +4,9 @@
 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Typescript, npm, and git**
+- 🌱 I’m currently learning **Typescript, git, and npm**
+
+- 📫 How to reach me **mohamede.barakat322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
