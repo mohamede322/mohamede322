@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Mohamed Essam Barakat</h1>
+<h1 align="center">Mohamed Essam Barakat</h1>
 <h3 align="center">Full-Stack Web Developer (Angular • Node.js) | Alexandria, Egypt</h3>
 
 <p align="center">
