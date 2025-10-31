@@ -1,5 +1,5 @@
 <h1 align="center">Mohamed Essam Barakat</h1>
-<h3 align="center">Full-Stack Web Developer (Angular • Node.js) | Alexandria, Egypt</h3>
+<h3 align="center">MEAN Stack Developer | Alexandria, Egypt</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamede322&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -60,7 +60,7 @@ A production-grade **full-stack app**:
 - 🚀 Deployment (coming soon)
 
 Live link + repo will be added once shipped.  
-I don’t push half-baked junk.
+
 
 ---
 
