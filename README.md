@@ -1,77 +1,85 @@
-<h1 align="center">👋 Hey, I'm Mohamed Essam</h1>
-<h3 align="center">Full-Stack Developer (Angular | Node.js) 🚀 from Egypt</h3>
+<h1 align="center">🔥 Mohamed Essam Barakat</h1>
+<h3 align="center">Full-Stack Web Developer (Angular • Node.js) | Alexandria, Egypt</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamede322&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamede322&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Junior Web Developer — building real-world products
-- 💻 Frontend: Angular • Tailwind • SCSS
-- 🔥 Backend: Node.js • Express.js
-- 🛢️ Database: MongoDB • Mongoose
-- 🌱 Currently leveling up in: Clean Architecture & REST APIs
-- 🎯 Goal: Become a killer full-stack engineer in Germany 🇩🇪
-- 📫 Reach me: **mohamede.barakat322@gmail.com**
+- Full-stack developer building **production-level applications**
+- Strong frontend focus (Angular), expanding backend skills (Node.js + MongoDB)
+- Worked on **real SaaS platforms**, real teams, real deadlines — not toy projects
+- Passionate about performance, clean architecture & scalable UI systems
+- Goal: Work & grow as a software engineer in Germany 🇩🇪
+
+📧 **Email:** mohamede.barakat322@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/mohamede322  
+🐙 **GitHub:** github.com/mohamede322  
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/mohamede322" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+### 💼 Professional Experience
+
+#### **Frontend Developer — Bayanatouz** *(Remote, Egypt | 2025 — Present)*
+- Built and maintained **multi-language (AR/EN) Angular apps**
+- Reusable UI components, documentation, and clean code standards
+- Cross-team collaboration with backend + Jira workflow
+
+#### **Frontend Developer — DevSolutions** *(Remote, Egypt | 2024 — 2025)*
+Worked on **NexTelco.io** — a real-time call center platform  
+- WebSocket real-time features (chat, call events, notifications)
+- VoIP integration support, CRM-style interfaces
+- Debugging, deployment, code reviews, GitLab CI/CD
+
+---
+
+### 🧠 Skills
+
+#### **Frontend**
+Angular • TypeScript • RxJS • SCSS • Tailwind • PrimeNG • Bootstrap
+
+#### **Backend**
+Node.js • Express.js
+
+#### **Database**
+MongoDB • Mongoose
+
+#### **Tools & Workflow**
+Git • Postman • Jira • Swagger • REST APIs • WebSockets • ClickUp
+
+---
+
+### 🏗️ What I’m Building Right Now
+A production-grade **full-stack app**:
+- ✅ Angular frontend
+- ✅ Node.js & Express backend
+- ✅ MongoDB database
+- ✅ Auth, routing, UI/UX best practices
+- 🚀 Deployment (coming soon)
+
+Live link + repo will be added once shipped.  
+I don’t push half-baked junk.
+
+---
+
+### 📊 Stats (because why not)
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamede322&theme=default" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamede322&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamede322&layout=compact" />
 </p>
 
 ---
 
-### 🧠 Tech Stack
+### 🏁 Vision & Mindset
+> I don't chase tutorials — I build.
 
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,tailwind,bootstrap,figma" />
-</p>
-
-#### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode" />
-</p>
+I’m not here to look smart, I’m here to **ship software and level up** every day.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamede322" />
-</p>
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamede322&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamede322&layout=compact" />
-</p>
-
----
-
-### 🏗️ Highlight Projects
-> Show your serious projects. If you don't have good ones yet, build them fast.
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| **E-Commerce Dashboard** | Angular, Node, MongoDB | Full CRUD, Auth, Role-based access |
-| **Quiz App for German Learners** | Angular, Tailwind | Cards + quiz system for language learning |
-| **Portfolio Website** | Angular | Clean UI, animations, responsive |
-
----
-
-### 🔥 Motto
-> *"Write code that future-you won’t hate."*
-
----
-
-### 💬 Let’s Build Something Great
-If you're hiring or want to collaborate — message me 😎
